@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>VidPLayer.qml</file>
+    </qresource>
+    <qresource prefix="/vids">
+        <file>oceans.mp4</file>
+    </qresource>
+</RCC>
